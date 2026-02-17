@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy - 6a Ampliada con RDC" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_RDC_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con RDC - v1.0" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="RDC_Enanos_del_Caos v1.catz" dataType="catalogue" dataId="cf2c-7980-f2d7-a99d" dataName="RDC Enanos del Caos" dataBattleScribeVersion="2.03" dataRevision="19"/>
+    <dataIndexEntry filePath="RDC_Elfos_Oscuros v1.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="RDC Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Skaven v1.catz" dataType="catalogue" dataId="a841-7b20-89a8-91ac" dataName="RDC Skaven" dataBattleScribeVersion="2.03" dataRevision="19"/>
+    <dataIndexEntry filePath="RDC_Mercenarios v1.catz" dataType="catalogue" dataId="7ab5-64c7-4c6f-e0e1" dataName="RDC Mercenarios" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Orcos_y_Goblins v1.catz" dataType="catalogue" dataId="f551-0992-682c-c960" dataName="RDC Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="20"/>
+    <dataIndexEntry filePath="RDC_Regimientos_de_Renombre v1.catz" dataType="catalogue" dataId="8457-6ffc-3b3a-fbcc" dataName="RDC Regimientos de Renombre" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Enanos v1.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="RDC Enanos" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Reinos_Ogros_v1.catz" dataType="catalogue" dataId="21f4-2047-99f7-84c1" dataName="RDC Reinos Ogros" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Bretonia_v1.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="RDC Bretonia" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Reinos_del_Caos_Mortales_v1.catz" dataType="catalogue" dataId="7020-46e5-3849-599f" dataName="RDC Reinos del Caos: Mortales" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Hombres_lagarto v1.catz" dataType="catalogue" dataId="c104-5906-70e9-def1" dataName="RDC Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Altos_Elfos v1.catz" dataType="catalogue" dataId="d3b3-94b1-5e8a-2250" dataName="RDC Altos Elfos " dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Elfos_Silvanos v1.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="RDC Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Reinos_del_Caos_Demonios_v1.catz" dataType="catalogue" dataId="b0a7-8bc8-db26-e347" dataName="RDC Reinos del Caos: Demonios" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Reyes_Funerarios v1.catz" dataType="catalogue" dataId="93c4-b6ad-9da5-4afc" dataName="RDC Reyes Funerarios" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Imperio v1.catz" dataType="catalogue" dataId="d7c5-1d65-c35a-2131" dataName="RDC Imperio" dataBattleScribeVersion="2.03" dataRevision="19"/>
+    <dataIndexEntry filePath="RDC_Reinos_del_Caos_Bestias_v1.catz" dataType="catalogue" dataId="3c7d-2907-6b62-936e" dataName="RDC Reinos del Caos: Bestias" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="RDC_Condes_Vampiro v1.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="RDC Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="19"/>
+  </dataIndexEntries>
+</dataIndex>
