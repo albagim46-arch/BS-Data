@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy - 6a Ampliada con RDC" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy 6a Ampliada con RDC" indexUrl="https://github.com/albagim46-arch/BS-Data/blob/0da50ad37a83c83b6630fe354498a7778d8d1050/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_RDC_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con RDC - v1.0" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="RDC_Enanos_del_Caos v1.catz" dataType="catalogue" dataId="cf2c-7980-f2d7-a99d" dataName="RDC Enanos del Caos" dataBattleScribeVersion="2.03" dataRevision="19"/>
